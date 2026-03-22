@@ -1,10 +1,7 @@
 **NBA Player Salary Analysis**
 
-        
-
 **What the Project Is**
-
-A relational SQL analysis of NBA player salaries spanning four decades, joining player biographical data with historical salary records to uncover compensation trends across positions, teams, seasons, and colleges.
+: A relational SQL analysis of NBA player salaries spanning four decades, joining player biographical data with historical salary records to uncover compensation trends across positions, teams, seasons, and colleges.
 
 **Why I Built It**
 
