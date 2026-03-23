@@ -18,3 +18,9 @@ Prestige colleges don't predict earnings: Davidson College ranks #1 for average 
 ### **Tools Used**
 
 SQL, DB Browser for SQLite
+
+## Dashboard Visualization
+The findings from the SQL analysis were translated into an interactive 
+Power BI dashboard, connecting data querying to visual storytelling.
+
+![NBA Salary Dashboard](dashboard.png)
