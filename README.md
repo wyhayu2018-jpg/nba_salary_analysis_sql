@@ -16,7 +16,7 @@ expansion and the explosion of media rights revenue.
 - **Multi-position players dominate top earnings:** The highest average 
 salaries belong to players classified across multiple positions, suggesting 
 versatility commands a premium in the market.
-- **The New York Knicks carry the heaviest historical payroll:** at over $2B 
+- **The New York Knicks carry the heaviest historical payroll:** At over $2B 
 total, nearly $230M more than the second-ranked Portland Trail Blazers.
 - **Prestige colleges don't predict earnings:** Davidson College ranks #1 
 driven largely by Stephen Curry, while traditional powerhouses like Duke and 
