@@ -1,1 +1,0 @@
-Quesry result screenshots
