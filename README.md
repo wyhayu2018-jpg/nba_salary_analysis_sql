@@ -10,14 +10,22 @@ This project was built to demonstrate applied data strategy and financial analys
 
 ### **What I Found**
 
-Salary growth is dramatic over time: Average NBA salaries grew from roughly $399K in 1984-85 to over $3.6M by 2003-04, reflecting both league expansion and the explosion of media rights revenue
-Multi-position players dominate the top earnings: The highest average salaries belong to players classified across multiple positions, suggesting versatility commands a premium in the market
-The New York Knicks carry the heaviest historical payroll at over $2B total, nearly $230M more than the second-ranked Portland Trail Blazers
-Prestige colleges don't predict earnings: Davidson College ranks #1 for average player salary — driven largely by Stephen Curry — while traditional basketball powerhouses like Duke and Kentucky don't appear in the top 20, highlighting how star player bias can skew averages in small samples
+- **Salary growth is dramatic over time:** Average NBA salaries grew from 
+roughly $399K in 1984-85 to over $3.6M by 2003-04, reflecting both league 
+expansion and the explosion of media rights revenue.
+- **Multi-position players dominate top earnings:** The highest average 
+salaries belong to players classified across multiple positions, suggesting 
+versatility commands a premium in the market.
+- **The New York Knicks carry the heaviest historical payroll** at over $2B 
+total, nearly $230M more than the second-ranked Portland Trail Blazers.
+- **Prestige colleges don't predict earnings:** Davidson College ranks #1 
+driven largely by Stephen Curry, while traditional powerhouses like Duke and 
+Kentucky don't appear in the top 20, highlighting how star player bias can 
+skew averages in small samples.
 
 ### **Tools Used**
 
-SQL, DB Browser for SQLite
+SQL, DB Browser for SQLite, Microsoft Power BI
 
 ## Dashboard Visualization
 The findings from the SQL analysis were translated into an interactive 
